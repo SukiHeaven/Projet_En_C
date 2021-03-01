@@ -1,0 +1,4 @@
+/home/user/langage_avance/Projet_IN505/build/CMakeFiles/rebuild_cache.dir
+/home/user/langage_avance/Projet_IN505/build/CMakeFiles/main.dir
+/home/user/langage_avance/Projet_IN505/build/CMakeFiles/edit_cache.dir
+/home/user/langage_avance/Projet_IN505/build/CMakeFiles/main_autogen.dir
